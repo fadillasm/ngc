@@ -1,3 +1,3 @@
-# Introduction
+# Introduction 🙏
 
-Repository ini untuk mengumpulkan tugas NGC
+Repository ini untuk mengumpulkan tugas NGC ✨
